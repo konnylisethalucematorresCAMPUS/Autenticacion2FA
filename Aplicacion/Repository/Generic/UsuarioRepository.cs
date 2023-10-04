@@ -13,9 +13,9 @@ public class UsuarioRepository : GenericRepository<Usuario>, IUsuario
         _Context = context;
     }
 
-    public async Task<Usuario?> GetByIdAsync(long id)
+    public async Task<Usuario?> GetByIdAsync(long id) 
     {
-        return await _Context.FindAsync<Usuario>(id);
+        return await _Context.FindAsync<Usuario>(id); // retorna un objeto 
     }
 
 

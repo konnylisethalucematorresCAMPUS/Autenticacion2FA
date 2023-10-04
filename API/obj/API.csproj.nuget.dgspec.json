@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/skylab-111/Documents/Autenticacion2FA/API/API.csproj": {}
+    "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\API\\API.csproj": {}
   },
   "projects": {
-    "/home/skylab-111/Documents/Autenticacion2FA/API/API.csproj": {
+    "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-111/Documents/Autenticacion2FA/API/API.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "/home/skylab-111/Documents/Autenticacion2FA/API/API.csproj",
-        "packagesPath": "/home/skylab-111/.nuget/packages/",
-        "outputPath": "/home/skylab-111/Documents/Autenticacion2FA/API/obj/",
+        "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-111/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-111/Documents/Autenticacion2FA/Aplicacion/Aplicacion.csproj": {
-                "projectPath": "/home/skylab-111/Documents/Autenticacion2FA/Aplicacion/Aplicacion.csproj"
+              "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
@@ -104,21 +104,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/skylab-111/Documents/Autenticacion2FA/Aplicacion/Aplicacion.csproj": {
+    "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-111/Documents/Autenticacion2FA/Aplicacion/Aplicacion.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "/home/skylab-111/Documents/Autenticacion2FA/Aplicacion/Aplicacion.csproj",
-        "packagesPath": "/home/skylab-111/.nuget/packages/",
-        "outputPath": "/home/skylab-111/Documents/Autenticacion2FA/Aplicacion/obj/",
+        "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-111/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -130,11 +130,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-111/Documents/Autenticacion2FA/Dominio/Dominio.csproj": {
-                "projectPath": "/home/skylab-111/Documents/Autenticacion2FA/Dominio/Dominio.csproj"
+              "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj"
               },
-              "/home/skylab-111/Documents/Autenticacion2FA/Persistencia/Persistencia.csproj": {
-                "projectPath": "/home/skylab-111/Documents/Autenticacion2FA/Persistencia/Persistencia.csproj"
+              "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -164,21 +164,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/skylab-111/Documents/Autenticacion2FA/Dominio/Dominio.csproj": {
+    "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-111/Documents/Autenticacion2FA/Dominio/Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/skylab-111/Documents/Autenticacion2FA/Dominio/Dominio.csproj",
-        "packagesPath": "/home/skylab-111/.nuget/packages/",
-        "outputPath": "/home/skylab-111/Documents/Autenticacion2FA/Dominio/obj/",
+        "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-111/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -235,21 +235,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/skylab-111/Documents/Autenticacion2FA/Persistencia/Persistencia.csproj": {
+    "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-111/Documents/Autenticacion2FA/Persistencia/Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "/home/skylab-111/Documents/Autenticacion2FA/Persistencia/Persistencia.csproj",
-        "packagesPath": "/home/skylab-111/.nuget/packages/",
-        "outputPath": "/home/skylab-111/Documents/Autenticacion2FA/Persistencia/obj/",
+        "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-111/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -261,8 +261,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-111/Documents/Autenticacion2FA/Dominio/Dominio.csproj": {
-                "projectPath": "/home/skylab-111/Documents/Autenticacion2FA/Dominio/Dominio.csproj"
+              "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -306,7 +306,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
