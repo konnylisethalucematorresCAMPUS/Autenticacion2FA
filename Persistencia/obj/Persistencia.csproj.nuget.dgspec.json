@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\Persistencia.csproj": {}
+    "/home/skylab-110/Documents/Autenticacion2FA/Persistencia/Persistencia.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj": {
+    "/home/skylab-110/Documents/Autenticacion2FA/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "/home/skylab-110/Documents/Autenticacion2FA/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\obj\\",
+        "projectPath": "/home/skylab-110/Documents/Autenticacion2FA/Dominio/Dominio.csproj",
+        "packagesPath": "/home/skylab-110/.nuget/packages/",
+        "outputPath": "/home/skylab-110/Documents/Autenticacion2FA/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/skylab-110/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -71,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\Persistencia.csproj": {
+    "/home/skylab-110/Documents/Autenticacion2FA/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "/home/skylab-110/Documents/Autenticacion2FA/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Persistencia\\obj\\",
+        "projectPath": "/home/skylab-110/Documents/Autenticacion2FA/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/skylab-110/.nuget/packages/",
+        "outputPath": "/home/skylab-110/Documents/Autenticacion2FA/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/skylab-110/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -97,8 +97,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\APM01-54\\Documents\\Autenticacion2FA\\Dominio\\Dominio.csproj"
+              "/home/skylab-110/Documents/Autenticacion2FA/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-110/Documents/Autenticacion2FA/Dominio/Dominio.csproj"
               }
             }
           }
@@ -142,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
         }
       }
     }

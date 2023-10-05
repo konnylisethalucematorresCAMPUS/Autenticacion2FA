@@ -1,3 +1,4 @@
+// aqui se definen dos metodos que estan relacionados con la autenticacion 
 using API.Dtos;
 using Dominio.Entities;
 
@@ -11,3 +12,6 @@ namespace API.Services;
 
 //byte: representa el código QR en bytes
 //ref: se utiliza para pasar un argumento por referencia a un método
+
+
+// la configuracion se encuentra en "UserService" que implementara la interfaz IserService y la utilizaremos para proporcionar funcionalidades con la autenticacion de dos factores

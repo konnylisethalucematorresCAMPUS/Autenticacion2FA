@@ -1,4 +1,4 @@
-
+//Iniciamos con una entidad base con propiedades basicas y una en especial la cual va a almacenar el token
 namespace Dominio.Entities;
     public class Usuario : BaseEntity{
         
